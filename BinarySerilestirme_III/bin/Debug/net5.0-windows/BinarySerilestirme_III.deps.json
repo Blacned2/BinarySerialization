@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BinarySerilestirme_III/1.0.0": {
+        "runtime": {
+          "BinarySerilestirme_III.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BinarySerilestirme_III/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
